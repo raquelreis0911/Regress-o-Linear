@@ -1,4 +1,4 @@
-Faça uma regressão linear simples usando o arquivo "gerentes".
+Faça uma regressão linear simples usando os arquivos "gerentes" e "preços".
 
 No código, você verá como fazer essa análise.
 
