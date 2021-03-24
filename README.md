@@ -1,4 +1,8 @@
-Regressão Linear Simples
+Faça uma regressão linear simples usando o arquivo "gerentes".
 
-Faça uma regressão linear simples.
+No código, você verá como fazer essa análise.
+
+
+
+
 
